@@ -6,5 +6,6 @@ public class BookOfGeez {
         System.out.println("A BE GE DE HA WE YE");
         //A means is  = alfa egziabher.
         // BE means is bet.
+        // GE means is Gemel/camel .
     }
 }
