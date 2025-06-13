@@ -8,5 +8,6 @@ public class BookOfGeez {
         // BE means is bet.
         // GE means is Gemel/camel.
         //HA means is nefs or soul.
+        //WE means combination.
     }
 }
