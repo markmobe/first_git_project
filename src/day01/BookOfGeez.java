@@ -10,5 +10,6 @@ public class BookOfGeez {
         // HA means is nefs or soul.
         // WE means combination.
         // YE means Right hand.
+        // Geez is historical ang religiuos langauge
     }
 }
