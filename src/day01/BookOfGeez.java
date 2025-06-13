@@ -9,5 +9,6 @@ public class BookOfGeez {
         // GE means is Gemel/camel.
         // HA means is nefs or soul.
         // WE means combination.
+        // YE means Right hand.
     }
 }
